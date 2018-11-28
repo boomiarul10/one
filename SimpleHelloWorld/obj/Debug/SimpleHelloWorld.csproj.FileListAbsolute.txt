@@ -1,0 +1,6 @@
+D:\MediaFiles\SimpleHelloWorld\SimpleHelloWorld\bin\Debug\SimpleHelloWorld.exe.config
+D:\MediaFiles\SimpleHelloWorld\SimpleHelloWorld\bin\Debug\SimpleHelloWorld.exe
+D:\MediaFiles\SimpleHelloWorld\SimpleHelloWorld\bin\Debug\SimpleHelloWorld.pdb
+D:\MediaFiles\SimpleHelloWorld\SimpleHelloWorld\obj\Debug\SimpleHelloWorld.csprojResolveAssemblyReference.cache
+D:\MediaFiles\SimpleHelloWorld\SimpleHelloWorld\obj\Debug\SimpleHelloWorld.exe
+D:\MediaFiles\SimpleHelloWorld\SimpleHelloWorld\obj\Debug\SimpleHelloWorld.pdb
